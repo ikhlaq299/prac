@@ -5,6 +5,6 @@ h1{
 }
 
 p{
-    text-transform: uppercase;
+    text-transform: capitalize;
     
 }
